@@ -1,6 +1,5 @@
-<div align="center">
-
-<pre>
+<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
+<pre style="color:white; background-color:black; border:none;">
  ██▀███  ▓█████ ██▒   █▓ ██▀███  ▓█████▓██   ██▓  ██████ 
 ▓██ ▒ ██▒▓█   ▀▓██░   █▒▓██ ▒ ██▒▓█   ▀ ▒██  ██▒▒██    ▒ 
 ▓██ ░▄█ ▒▒███   ▓██  █▒░▓██ ░▄█ ▒▒███    ▒██ ██░░ ▓██▄   
@@ -12,5 +11,4 @@
    ░        ░  ░     ░     ░        ░  ░░ ░           ░  
                     ░                   ░ ░              
 </pre>
-
 </div>
