@@ -1,5 +1,8 @@
-<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
-<pre style="color:white; background-color:black; border:none;">
+<div align="center">
+
+<img src="https://img.shields.io/badge/revreyS-terminal-black?style=for-the-badge&logo=github">
+
+<pre style="background:black; color:white; padding:20px; border-radius:10px;">
  ██▀███  ▓█████ ██▒   █▓ ██▀███  ▓█████▓██   ██▓  ██████ 
 ▓██ ▒ ██▒▓█   ▀▓██░   █▒▓██ ▒ ██▒▓█   ▀ ▒██  ██▒▒██    ▒ 
 ▓██ ░▄█ ▒▒███   ▓██  █▒░▓██ ░▄█ ▒▒███    ▒██ ██░░ ▓██▄   
@@ -11,4 +14,5 @@
    ░        ░  ░     ░     ░        ░  ░░ ░           ░  
                     ░                   ░ ░              
 </pre>
+
 </div>
